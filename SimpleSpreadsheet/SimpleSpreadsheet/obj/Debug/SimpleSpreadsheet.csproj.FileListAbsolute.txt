@@ -1,0 +1,11 @@
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.exe.config
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.exe
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\bin\Debug\SimpleSpreadsheet.pdb
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.csprojAssemblyReference.cache
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.frmDashboard.resources
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.frmSpreadsheet.resources
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.Properties.Resources.resources
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.csproj.GenerateResource.cache
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.csproj.CoreCompileInputs.cache
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.exe
+E:\College\SimpleSpreadsheet\SimpleSpreadsheet\SimpleSpreadsheet\obj\Debug\SimpleSpreadsheet.pdb
